@@ -3357,3 +3357,11 @@ dl.toggle.time-line:before {
 .footer-text i {
   color: #69be00;
 }
+.feedback-area {
+  background: url(../img/me.jpg) center;
+  background-size: cover;
+}
+
+.overlay-bg {
+  background-color: rgba(4, 9, 30, 0.7);
+}
