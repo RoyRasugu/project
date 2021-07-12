@@ -1,4 +1,4 @@
-The project above is my portfolio. I am Roy Mokua Rasugu. This portfolio project basically contains my information including background, contact and my work i.e websites. pet website and travel guide.
+The project above is my portfolio. I am Roy Mokua Rasugu. This portfolio project basically contains my information including background, contact and my work i.e websites. pet website and travel guide. The project was done using visual studio code together with html langauge. Here is the link to my project on github pages: https://github.com/RoyRasugu/project .
 
 
 MIT License
