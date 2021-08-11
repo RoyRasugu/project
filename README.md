@@ -1,24 +1,34 @@
-The project above is my portfolio. I am Roy Mokua Rasugu. This portfolio project basically contains my information including background, contact and my work i.e websites. pet website and travel guide. The project was done using visual studio code together with html langauge. Here is the link to my project on github pages: https://github.com/RoyRasugu/project .
+# Portfolio
+## Author
 
+Roy Rasugu
 
-MIT License
+## Description
 
-Copyright (c) [2021] [ROY MOKUA RASUGU]
+This website is my portfolio with various sections like an about, experience which is the websites I've worked on and contact section
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (Portfolio), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Portfolio, and to permit persons to whom the Portfolio is
-furnished to do so, subject to the following conditions:
+## Livepage
+https://royrasugu.github.io/project/
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## Setup and instruction installations
+* Open Terminal (Ctrl+Alt+T)
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+* git clone https://github.com/RoyRasugu/project.git
+
+* cd to the project directory
+
+* code . or atom . to access the code and view it in whichever browser you prefer
+
+## Technologies Used
+
+* HTML5
+* CSS
+* Bootstrap
+
+## Contact Information
+
+You can reach me on my email [royratchizi@gmail.com]
+
+## License
+* *MIT License:*
+* Copyright (c) 2021 **Roy Rasugu**
