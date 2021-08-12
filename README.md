@@ -5,7 +5,7 @@ Roy Rasugu
 
 ## Description
 
-This website is my portfolio with various sections like an about, experience which is the websites I've worked on and contact section.
+This website is my portfolio with various sections like an about, experience which is the websites I've worked on and contact section
 
 ## Livepage
 https://royrasugu.github.io/project/
